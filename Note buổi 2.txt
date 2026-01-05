@@ -1,0 +1,90 @@
+Note buổi 2
+----
+
+IDE (Integrated Development Environment): môi trường phát triển tích hợp
+
+=> tool để viết code
+
+---
+MS ra đời Visual Studio (community & enterprise)
+
+Visual Studio Code: viết được HTML, CSS, JS (TypeScript)
+
+----
+
+Localhost: giả lập máy tính của mình thành hosting
+
+----
+
+HTML: Hypertext Markup Language (ngôn ngữ đánh dấu siêu văn bản)
+
+Siêu văn bản: văn bản (chữ), link, embed code (Google Maps, Youtube, Facebook fanpage...), image, video, audio, infographic,...
+
+HTML gọi khung sườn của website (phần thô)
+CSS (Cascading Style Sheet) tác động vào các phần tử của HTML để trang trí, làm đẹp, thay đổi bố cục... (phần hoàn thiện)
+JS dùng để tạo tương tác của người dùng trên website (các thiết bị smartTV, smart light, cảnh báo chống trộm, cảnh báo cháy...)
+
+----------
+
+HTML Element (phần tử HTML) sẽ bao gồm: thẻ mở (open tag), nội dung, thẻ đóng (close tag)
+
+VD:
+	<p>Hello</p>
+
+---------------
+
+HTML Boilerplate
+
+Responsive web design: thiết kế web đáp ứng trên các thiết bị thông dụng
+
+Semantic HTML: viết html có ngữ nghĩa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
