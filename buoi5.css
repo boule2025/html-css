@@ -1,0 +1,30 @@
+/* Độ ưu tiên của các cách chọn phần tử trong CSS từ cao đến thấp 
+1. !important
+2. inline CSS
+3. #id selector
+4. .class selector
+5. pseudo class, pseudo element selector
+6. tag name selector
+7. universal (*) selector
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+p {
+  color: violet;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background: orange;
+  border: 5px solid black;
+  /*border: viền
+  border-width:độ dày của viền;
+  border-style:kiểu viền;
+  border-color:màu viền; 
+   */
+  padding: 50px;
+  margin: 50px;
+}
